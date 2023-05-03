@@ -27,7 +27,7 @@ If the homolog mode is activated, any resistance genes that match to a hit will 
 
 ### Usage
 
-`python functional_gene_intersection --cutoff <cutoff in bp> --resistance_gene <resistance gene file> --sm_gene <SM gene file> [--out output csv] [--rghomologs resistance gene homolog mode] [--nocheck] 
+`python functional_gene_intersection --cutoff <cutoff in bp> --resistance_gene <resistance gene file> --sm_gene <SM gene file> [--out output csv] [--rghomologs resistance gene homolog mode] [--nocheck]`
 <br>
 
 The Python version is up to choice, although this was developed on a python2 base. It requires no libraries beyond the libraries that come standard with Python2.x and 3.x to make deployment simpler.
